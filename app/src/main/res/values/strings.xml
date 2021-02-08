@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- General Strings -->
+    <string name="app_name">HPv3</string>
+
+    <!-- Main Strings -->
+    <string name="main_tv_title">Main Fragment</string>
+
+    <string name="main_btn_Plot">Plot</string>
+    <string name="main_btn_List">List</string>
+    <string name="main_btn_Set">Settings</string>
+
+    <!-- Plot Strings -->
+    <string name="plot_tv_title">Plot Fragment</string>
+
+    <!-- List Strings -->
+    <string name="list_tv_title">List Fragment</string>
+
+    <!-- Settings Strings -->
+    <string name="set_tv_title">Settings Fragment</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
